@@ -7,13 +7,13 @@
 ### 2.1 BT Sites
 ### 2.2 Torrent Sites
 ### 2.3 Subtitle Sites
-* More：https://www.cybrhome.com/topic/subtitles
-① MovieSubtitles：https://www.moviesubtitles.org
-② Subscene：https://subscene.com
-③ OpenSubtitles：https://www.opensubtitles.org/en/search/subs
-④ TV-subs：https://www.tv-subs.net
-⑤ TVsubtitles：http://www.tvsubtitles.net
-⑥ Subsmax：http://subsmax.com
-⑦ Podnapisi：https://www.podnapisi.net
-⑧ Addic7ed：http://www.addic7ed.com
+* More：https://www.cybrhome.com/topic/subtitles<br>
+① MovieSubtitles：https://www.moviesubtitles.org<br>
+② Subscene：https://subscene.com<br>
+③ OpenSubtitles：https://www.opensubtitles.org/en/search/subs<br>
+④ TV-subs：https://www.tv-subs.net<br>
+⑤ TVsubtitles：http://www.tvsubtitles.net<br>
+⑥ Subsmax：http://subsmax.com<br>
+⑦ Podnapisi：https://www.podnapisi.net<br>
+⑧ Addic7ed：http://www.addic7ed.com<br>
 ⑨ YIYF Subtitles：http://www.yifysubtitles.com
